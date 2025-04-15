@@ -1,4 +1,6 @@
 # HALF_ADDER_SUBTRACTOR
+# Name: Muthu Poornima P
+# Reg no:212224240099
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -34,6 +36,9 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![image](https://github.com/user-attachments/assets/2bd310bf-5d2f-4dcb-bdd0-c3fcee15cbf4)
+![image](https://github.com/user-attachments/assets/f985446d-3100-4ac3-a794-b2fa5d2a744e)
+
 
 **Procedure**
 
@@ -50,12 +55,21 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![image](https://github.com/user-attachments/assets/2386d883-6a33-44b0-aa4e-2accfea94e2d)
+![image](https://github.com/user-attachments/assets/eb92ff5c-be78-4868-8439-714e78bda4a0)
 
-Developed by: RegisterNumber:*/
+
 
 **RTL Schematic**
 
+![image](https://github.com/user-attachments/assets/dcd8ff88-5078-4d22-9120-5d9b8bd776a8)
+![image](https://github.com/user-attachments/assets/f6caa698-ad6e-4140-b841-ac0f5a14dddd)
+
+
 **Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/51c68891-b3f5-4518-ae6c-4cca40fc779b)
+![image](https://github.com/user-attachments/assets/a5256ae9-dde2-40d6-a4cf-d676af30056a)
+
 
 **Result:**
+Thus the given logic functions are implemented and their operations are verified using Verilog programming.
